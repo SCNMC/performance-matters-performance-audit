@@ -82,6 +82,22 @@ Largest Contentful Paint marks the time at which the largest text or image is pa
 
   Door dit aan te passen bespaar je 200 ms. 
 
+## Overige 
+
+### TTI
+<img width="191" alt="Schermafbeelding 2022-04-26 om 23 13 19" src="https://user-images.githubusercontent.com/90189750/165393382-3d08c25b-461b-4b35-adc9-0e42b92e8d30.png">
+
+Time to Interactive geeft de tijd aan wanneer de paginas die je bezoekt interacief is. Met een resultaat van 2.0 s heeft deze pagina een snelle TTI.
+
+### TBT
+<img width="191" alt="Schermafbeelding 2022-04-26 om 23 13 38" src="https://user-images.githubusercontent.com/90189750/165393417-93a97a09-8d87-40d5-8120-ef623bd4ce9e.png">
+
+Total Blocking Time rekent de tijd tussen de FCP en TTI. Het meet de tijd hoelang het duurt voordat er gereageerd word op de input van de gebruiker. Denk hieraan aan muisklicks, screen taps en keyboard taps. Met een score van 0 ms heeft deze pagina een snelle TBT.
+
+### CLS 
+<img width="191" alt="Schermafbeelding 2022-04-26 om 23 13 50" src="https://user-images.githubusercontent.com/90189750/165393464-6067bc16-782c-4185-abb5-7804ebd879ae.png">
+
+Cumulative Layout Shift meet de beweging van zichtbare elementen in de viewport. Met een score van 0 scoort deze pagina goed op de CLS.
 
 
 ## Bronnen
